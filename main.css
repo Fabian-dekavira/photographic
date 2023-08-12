@@ -1,6 +1,7 @@
-img1 {
+img {
     height: 200px;
-    width: 1600px;
+    width: 800px;
+    
 }
 
 
@@ -17,3 +18,18 @@ h1 {
     background-color: blueviolet;
     
 }
+
+p {
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 2px;
+
+}
+
+h3 {
+    text-emphasis: 20px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
